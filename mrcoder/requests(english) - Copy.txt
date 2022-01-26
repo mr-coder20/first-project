@@ -1,0 +1,24 @@
+import requests
+import bs4
+import hashlib
+import socket
+
+you need install libraries in here
+
+
+
+
+
+
+pip3 install requests
+pip3 install bs4
+pip3 install hashlib
+pip3 install socket
+
+
+run cmd and install by commands 
+
+
+
+
+id telegram= yalan_donya_0

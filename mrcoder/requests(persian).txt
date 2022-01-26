@@ -1,0 +1,28 @@
+import requests
+import bs4
+import hashlib
+import socket
+
+ابتدا این کتابخانه هارا در 
+cmd
+با دستور
+pip3 install requests
+pip3 install bs4
+pip3 install hashlib
+pip3 install socket
+
+نصب و پس از آن اسکریپت را اجرا کنید 
+
+
+
+برای اجرای اسکریپت ابتدا وارد
+cmd 
+و سپس دستور
+cd Desktop 
+و بعد از آن
+cd script
+و در آخر
+mr-coder.py
+را وارد کنید
+
+id telegram= yalan_donya_0
