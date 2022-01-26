@@ -7,7 +7,7 @@ gold, coin and Digital currency
 
 3=hash anything by algoritm (md5) or (sha256)
 
-4=dycript or crack hash anything 
+4=dycript or crack hash numbers range(1,999999999999) 
 algoritm (md5) or (sha256)
 
 5=gives your time and date 
