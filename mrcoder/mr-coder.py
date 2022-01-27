@@ -115,6 +115,7 @@ if num=="4":
             cunt=i
             i=str(i)
             i=hashlib.md5(i.encode()).hexdigest()
+            print(cunt,"please wait... ")
             if i==unhash:
                 print("crack hash seccess and your code=",cunt)
                 break
@@ -124,6 +125,7 @@ if num=="4":
     if num=="14":
         
         unhash=input("please enter hash for crack (sha256 algoritm)= ")
+        print(cunt,"please wait... ")
         for i in range(0,999999999999):
             cunt=i
             i=str(i)
